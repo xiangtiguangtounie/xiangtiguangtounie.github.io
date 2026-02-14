@@ -1,0 +1,8 @@
+{
+  "name": "Photography Portfolio",
+  "description": "Personal photography agency website with bilingual support",
+  "scripts": {
+    "dev": "npx serve .",
+    "build": "echo 'Static site - no build needed'"
+  }
+}
